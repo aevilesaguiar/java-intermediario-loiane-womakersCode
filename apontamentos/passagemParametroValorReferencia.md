@@ -14,3 +14,6 @@ Se alterarmos o valor da variável dentro do método, como é uma cópia, não a
 
 Tipos Primitivos: passagem por valor
 Tipos classe, enum, array: passagem por referencia
+
+## Referencias
+http://www.igordev.com.br/2016/02/passagem-de-parametros-java.html#:~:text=Como%20j%C3%A1%20sabemos%2C%20em%20Java,em%20Java%2C%20apenas%20por%20valor.
