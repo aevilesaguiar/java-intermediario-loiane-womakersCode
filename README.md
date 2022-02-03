@@ -1,11 +1,11 @@
 # Curso Loiane - Java Intermediário
 
-## Enumeradores (Enum) (00:51:24)
-- Enumeradores (Enum)
-- Enumeradores como classe (construtor e métodos)
-- Enum: métodos value e valueOf
-- Enum: métodos abstratos
-- Correção Exercícios Enum (Calculadora com Enum)
+## Enumeradores (Enum)
+- Enumeradores (Enum)✅
+- Enumeradores como classe (construtor e métodos)✅
+- Enum: métodos value e valueOf✅
+- Enum: métodos abstratos✅
+- Correção Exercícios Enum (Calculadora com Enum)✅
 ## Mais Elementos básicos da linguagem Java (02:21:38)
 - Wrappers: classes de tipos primitivos
 - Autoboxing e Unboxing
