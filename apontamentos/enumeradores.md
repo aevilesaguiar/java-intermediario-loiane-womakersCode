@@ -1,3 +1,24 @@
+# enums
+
+- Com enums podemos ter metodos, atributos, construtores e metodos abstratos(pode ser atarves de uma interface ou declarar dentro do proprio enum);
+- Enums extends a classe java.lang.Enum
+- Podem ser comparados usando ==
+- Quando comparamos classes não usamos o operador igual do java (==) e sim equal
+- Não podem ser ser instanciadas com new (um exemplo quando passamos SEGUNDA(1) já estamos ichamando o construtor do enum )
+- Podem implementar interfaces 
+- Não existe herança dentro de enum
+- Podem ser declarado separadamente ou dentro de classe
+- Não precisamos declarar nenhum modificador de acesso, por que o enum já possui internamente
+
+
+## values()
+
+O método values ele retorna um array de todos os valores que estãod entro dos enumerados
+
+
+## valuesof()
+
+Obter os valores de um enum através de uma string
 ## Enumeradores e constantes
 
 **constantes**
@@ -17,6 +38,9 @@ Vantagens do enum:
 - enum pode ser atravessado
 - enum pode ter campos, construtores e métodos
 - enum pode implementar muitas interfaces, mas não pode estender nenhuma classe, porque estende internamente a classe Enum
+
+
+
 
 ## Nota
 - enums não podem estender nenhuma classe.
