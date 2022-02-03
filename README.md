@@ -7,7 +7,7 @@
 - Enum: métodos abstratos✅
 - Correção Exercícios Enum (Calculadora com Enum)✅
 ## Mais Elementos básicos da linguagem Java (02:21:38)
-- Wrappers: classes de tipos primitivos
+- Wrappers: classes de tipos primitivos✅
 - Autoboxing e Unboxing
 - Importação estática (static import)
 - Escopo de Variáveis
