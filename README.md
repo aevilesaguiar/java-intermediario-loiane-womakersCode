@@ -8,11 +8,11 @@
 - Correção Exercícios Enum (Calculadora com Enum)✅
 ## Mais Elementos básicos da linguagem Java (02:21:38)
 - Wrappers: classes de tipos primitivos✅
-- Autoboxing e Unboxing
-- Importação estática (static import)
-- Escopo de Variáveis
-- Passagem de parâmetros por valor e por referência
-- Varargs
+- Autoboxing e Unboxing✅
+- Importação estática (static import)✅
+- Escopo de Variáveis✅
+- Passagem de parâmetros por valor e por referência✅
+- Varargs✅
 - printf
 - Classes aninhadas: internas, locais e anônimas
 - Annotations (Anotações)
