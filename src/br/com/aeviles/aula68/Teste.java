@@ -1,6 +1,6 @@
 package br.com.aeviles.aula68;
 
-public class Test {
+public class Teste {
 
 	public static void main(String[] args) {
 		MinhaThreadRunnable thread1 = new MinhaThreadRunnable("#1", 500);

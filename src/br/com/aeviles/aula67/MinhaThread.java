@@ -17,7 +17,7 @@ public class MinhaThread extends Thread {
 		try {
 			for (int i = 0; i < 6; i++) {
 				System.out.println(nome + " contador " + i);
-				//exceção verificada
+				//exceção verificada 
 				Thread.sleep(tempo);
 			}
 		} catch (InterruptedException e) {
@@ -25,5 +25,6 @@ public class MinhaThread extends Thread {
 		}
 		
 		System.out.println(nome+" terminou a execucao");
+		
 	}
 }
