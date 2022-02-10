@@ -46,8 +46,8 @@
 - Classe GregorianCalendar✅
 - Formatando datas com SimpleDateFormat✅
 - Locale (Internacionalização)✅
-- Formatando datas com DateFormat e Locale
-- TimeZone (Fuso Horário)
+- Formatando datas com DateFormat e Locale✅
+- TimeZone (Fuso Horário)✅
 - Data no Java 8+: LocalDate, LocalDateTime, LocalTime, ZoneId, ZoneDateTime
 - ResourceBundle
 - Formatando Números: NumberFormat
