@@ -28,16 +28,16 @@
 - Threads: deadlocks✅
 - Exercícios Aula 74: Semáfaro com Threads✅
 ## Trabalhando com Strings (01:18:53)
-- String: construtores
-- String: concatenação
-- String: extraindo chars (charAt, getChars, getBytes, toCharArray)
-- String: comparação de Strings (equalsIgnoreCase, regionMatches, startsWith, endsWith, compareTo)
-- String: fazendo buscas (indexOf, lastIndexOf, contains)
-- String: modificando uma String (substring, concat, replace, trim)
-- String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
-- String: juntando e separando String (join, split)
-- concatenação com StringBuilder e StringBuffer
-- String Tokenizer
+- String: construtores✅
+- String: concatenação✅
+- String: extraindo chars (charAt, getChars, getBytes, toCharArray)✅
+- String: comparação de Strings (equalsIgnoreCase, regionMatches, startsWith, endsWith, compareTo)✅
+- String: fazendo buscas (indexOf, lastIndexOf, contains)✅
+- String: modificando uma String (substring, concat, replace, trim)✅
+- String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)✅
+- String: juntando e separando String (join, split)✅
+- concatenação com StringBuilder e StringBuffer✅
+- String Tokenizer✅
 ## Classes Utilitárias (Datas, Locale, Math) (02:37:03)
 - Classes utilitárias (introdução)
 - Classe Math
