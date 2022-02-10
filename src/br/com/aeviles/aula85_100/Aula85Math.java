@@ -1,6 +1,6 @@
 package br.com.aeviles.aula85_100;
 
-public class Aula85 {
+public class Aula85Math {
 
 	public static void main(String[] args) {
 

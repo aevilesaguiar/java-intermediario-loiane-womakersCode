@@ -3,7 +3,7 @@ package br.com.aeviles.aula85_100;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
-public class Aula88 {
+public class Aula88GregorianCalendar {
 
 	public static void main(String[] args) {
 
