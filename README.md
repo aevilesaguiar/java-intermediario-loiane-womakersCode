@@ -6,27 +6,27 @@
 - Enum: métodos value e valueOf✅
 - Enum: métodos abstratos✅
 - Correção Exercícios Enum (Calculadora com Enum)✅
-## Mais Elementos básicos da linguagem Java (02:21:38)
+## Mais Elementos básicos da linguagem Java  
 - Wrappers: classes de tipos primitivos✅
 - Autoboxing e Unboxing✅
 - Importação estática (static import)✅
 - Escopo de Variáveis✅
 - Passagem de parâmetros por valor e por referência✅
 - Varargs✅
-- printf
-- Classes aninhadas: internas, locais e anônimas
-- Annotations (Anotações)
-- Garbage Collector (Coletor de Lixo)
-## Programação multi-tarefas: Threads (01:41:48)
-- Criando Threads + métodos start, run e sleep
-- Threads: Interface Runnable
-- Criando várias Threads + métodos isAlive e join
-- Threads: Definindo prioridades
-- Threads: métodos e blocos sincronizados (synchronized)
-- Threads: notify, wait e notifyAll
-- Threads: resume, suspend e stop
-- Threads: deadlocks
-- Exercícios Aula 74: Semáfaro com Threads
+- printf✅
+- Classes aninhadas: internas, locais e anônimas✅
+- Annotations (Anotações)✅
+- Garbage Collector (Coletor de Lixo)✅
+## Programação multi-tarefas: Threads 
+- Criando Threads + métodos start, run e sleep✅
+- Threads: Interface Runnable✅
+- Criando várias Threads + métodos isAlive e join✅
+- Threads: Definindo prioridades✅
+- Threads: métodos e blocos sincronizados (synchronized)✅
+- Threads: notify, wait e notifyAll✅
+- Threads: resume, suspend e stop✅
+- Threads: deadlocks✅
+- Exercícios Aula 74: Semáfaro com Threads✅
 ## Trabalhando com Strings (01:18:53)
 - String: construtores
 - String: concatenação
