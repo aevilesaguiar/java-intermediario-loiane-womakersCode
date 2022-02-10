@@ -39,13 +39,13 @@
 - concatenação com StringBuilder e StringBuffer✅
 - String Tokenizer✅
 ## Classes Utilitárias (Datas, Locale, Math) (02:37:03)
-- Classes utilitárias (introdução)
-- Classe Math
-- Classe Date (Data)
-- Classe Calendar
-- Classe GregorianCalendar
-- Formatando datas com SimpleDateFormat
-- Locale (Internacionalização)
+- Classes utilitárias (introdução)✅
+- Classe Math✅
+- Classe Date (Data)✅
+- Classe Calendar✅
+- Classe GregorianCalendar✅
+- Formatando datas com SimpleDateFormat✅
+- Locale (Internacionalização)✅
 - Formatando datas com DateFormat e Locale
 - TimeZone (Fuso Horário)
 - Data no Java 8+: LocalDate, LocalDateTime, LocalTime, ZoneId, ZoneDateTime
