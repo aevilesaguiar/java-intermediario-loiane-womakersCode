@@ -27,7 +27,7 @@
 - Threads: resume, suspend e stop✅
 - Threads: deadlocks✅
 - Exercícios Aula 74: Semáfaro com Threads✅
-## Trabalhando com Strings (01:18:53)
+## Trabalhando com Strings 
 - String: construtores✅
 - String: concatenação✅
 - String: extraindo chars (charAt, getChars, getBytes, toCharArray)✅
@@ -38,7 +38,7 @@
 - String: juntando e separando String (join, split)✅
 - concatenação com StringBuilder e StringBuffer✅
 - String Tokenizer✅
-## Classes Utilitárias (Datas, Locale, Math) (02:37:03)
+## Classes Utilitárias (Datas, Locale, Math)
 - Classes utilitárias (introdução)✅
 - Classe Math✅
 - Classe Date (Data)✅
