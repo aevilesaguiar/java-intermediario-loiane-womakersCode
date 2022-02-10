@@ -27,3 +27,11 @@ Outras Funções
 https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
 
 ![image](https://user-images.githubusercontent.com/52088444/153473876-a25cc0d0-fd20-44ab-a99a-d0962ff82229.png)
+
+
+## o QUE UTILIZAR O SimpleDateFormat ou o DateFormat
+
+No caso do DateFormat: é mais útil quando estivermos trabalhando com locale da nossa aplicação
+no caso do simpleDateFormat: é quando queremos especificar o formato da data
+
+## Timezone  - para se trabalhar com fuso Horário (as vezes queremos saber o horário que um registro foi modificado, e se ela estiver usando em outro pais, a base de dados pode ficar bagunçado)
