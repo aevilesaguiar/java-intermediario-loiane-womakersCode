@@ -22,3 +22,8 @@ Funções de arredondamento (muito utilizadas em funções financeiras)
 
 Outras Funções
 ![image](https://user-images.githubusercontent.com/52088444/153460532-47c4ddc0-aaac-4aaf-97a4-32a142c3414c.png)
+
+## Formatando datas simple Date Format
+https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
+
+![image](https://user-images.githubusercontent.com/52088444/153473876-a25cc0d0-fd20-44ab-a99a-d0962ff82229.png)
